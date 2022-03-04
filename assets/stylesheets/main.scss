@@ -1,0 +1,54 @@
+---
+---
+
+@charset "utf-8";
+
+$fontMedium: 500;
+$base-color: #393e46 !default;
+$text-color: #181c22 !default;
+$accent-color: #002D72 !default;
+$background-color: #fff !default;
+$code-background-color: tint($base-color, 95%) !default;
+$border-color: tint($base-color, 80%) !default;
+$overlay-color: $base-color !default;
+
+
+/* GENTONA */
+/*=== Medium (500) ===*/
+@font-face {
+  font-family: 'gentona';
+  src: url('fonts/Gentona-Medium.eot');
+  src: url('fonts/Gentona-Medium.eot?#iefix') format('embedded-opentype'),
+       url('fonts/Gentona-Medium.woff') format('woff'),
+       url('fonts/Gentona-Medium.ttf') format('truetype');
+  font-weight: $fontMedium;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'gentona';
+  src: url('fonts/Gentona-MediumItalic.eot');
+  src: url('fonts/Gentona-MediumItalic.eot?#iefix') format('embedded-opentype'),
+       url('fonts/Gentona-MediumItalic.woff') format('woff'),
+       url('fonts/Gentona-MediumItalic.ttf') format('truetype');
+  font-weight: $fontMedium;
+  font-style: italic;
+}
+
+
+$base-font-family: 'gentona';
+
+// Theme skin
+@import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
+
+@import "basically-basic";
+
+
+.site-title {
+    .site-logo {
+        width: auto;
+    }
+}
+
+
+
