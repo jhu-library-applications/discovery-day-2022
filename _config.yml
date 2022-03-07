@@ -24,8 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Ivy Plus Libraries Discovery Day conference was started to create a collaborative community among
   the Ivy Plus library staff working to implement, evaluate, improve, support, and teach discovery services.
 logo: assets/logo.png
-
-# Build settings
+search: true
+  
+  # Build settings
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 plugins:
