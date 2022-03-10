@@ -3,11 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title:
-image: assets/books.png
+# image: assets/books.png
 ---
 
-The Ivy Plus Libraries Discovery Day conference was started to create a collaborative community among the Ivy Plus library staff working to implement, evaluate, improve, support, and teach discovery services. TESTING RIGHT HERE
+The Ivy Plus Libraries Discovery Day conference was started to create a collaborative community among the Ivy Plus library staff working to implement, evaluate, improve, support, and teach discovery services. 
 
 Here is a list of past events and links to notes and slides:
 
