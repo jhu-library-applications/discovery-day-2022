@@ -6,7 +6,7 @@ layout: home
 image: assets/books.png
 ---
 
-The Ivy Plus Libraries Discovery Day conference was started to create a collaborative community among the Ivy Plus library staff working to implement, evaluate, improve, support, and teach discovery services.
+The Ivy Plus Libraries Discovery Day conference was started to create a collaborative community among the Ivy Plus library staff working to implement, evaluate, improve, support, and teach discovery services. TESTING RIGHT HERE
 
 Here is a list of past events and links to notes and slides:
 
