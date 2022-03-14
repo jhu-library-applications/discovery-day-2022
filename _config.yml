@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -24,12 +24,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Ivy Plus Libraries Discovery Day conference was started to create a collaborative community among
   the Ivy Plus library staff working to implement, evaluate, improve, support, and teach discovery services. TEST.
 logo: assets/logo.png
-  
+
   # Build settings
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 plugins:
-- jekyll-feed
+# - jekyll-feed
 
 
 # Exclude from processing.
