@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Planning Committee
-permalink: /planning-committee/
+layout: single
+title: Conference Planning
+permalink: /planning/
 ---
 
 *   David Bietila – Chicago

@@ -2,11 +2,12 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
-title: Past Conferences
-permalink: /previous/
+layout: single
+title: History
+permalink: /history/
 
 ---
+The Ivy Plus Libraries Discovery Day conference was started to create a collaborative community among the Ivy Plus library staff working to implement, evaluate, improve, support, and teach discovery services. It is hosted in turn by member institutions of the [Ivy Plus Libraries Confederation](https://ivpluslibraries.org/).
 
 ## Discovery Day Conferences 2013-2021
 * [Yale - 2020-21](https://campuspress.yale.edu/ivyplusdiscoveryday2020/)

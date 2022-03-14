@@ -9,7 +9,7 @@ $text-color: #181c22 !default;
 $accent-color: #002D72 !default;
 $background-color: #fff !default;
 $code-background-color: tint($base-color, 95%) !default;
-$border-color: tint($base-color, 80%) !default;
+// $border-color: tint($base-color, 80%) !default;
 $overlay-color: $base-color !default;
 
 
@@ -38,14 +38,16 @@ $overlay-color: $base-color !default;
 
 $base-font-family: 'gentona', Tahoma, sans-serif;
 
-// Theme skin for basically basic
-// @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
-// @import "basically-basic";
 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
 
-.site-title {
-    .site-logo {
-      height: 100px;
-      width: auto;
-    }
+//  OVERRIDES
+
+.site-logo img {
+  max-height: 6rem;
+}
+
+.page__footer {
+  background-color: #06c;
 }

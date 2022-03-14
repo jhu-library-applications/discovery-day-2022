@@ -1,0 +1,9 @@
+main:
+  - title: "Registration"
+    url: /registration/
+  - title: "Planning"
+    url: /planning/
+  - title: "Schedule"
+    url: /schedule/
+  - title: "History"
+    url: /history/
