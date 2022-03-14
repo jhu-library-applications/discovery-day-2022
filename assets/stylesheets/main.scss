@@ -38,10 +38,9 @@ $overlay-color: $base-color !default;
 
 $base-font-family: 'gentona', Tahoma, sans-serif;
 
-// Theme skin
-@import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
-
-@import "basically-basic";
+// Theme skin for basically basic
+// @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
+// @import "basically-basic";
 
 
 .site-title {
@@ -50,6 +49,3 @@ $base-font-family: 'gentona', Tahoma, sans-serif;
       width: auto;
     }
 }
-
-
-

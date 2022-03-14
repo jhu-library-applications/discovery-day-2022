@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Planning Comittee
+title: Planning Committee
 permalink: /planning-committee/
 ---
 
@@ -16,4 +16,3 @@ permalink: /planning-committee/
 *   Irina Trapido – Stanford
 *   Sara Witte – Columbia
 *   Suzanne Wones – Harvard
-
