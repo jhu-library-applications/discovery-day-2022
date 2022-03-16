@@ -38,6 +38,7 @@ plugins:
 # - jekyll-feed
 # - jekyll-sitemap
 - jekyll-include-cache
+- jekyll-remote-theme
 
 atom_feed:
   hide: true
