@@ -49,5 +49,19 @@ $base-font-family: 'gentona', Tahoma, sans-serif;
 }
 
 .page__footer {
-  background-color: #06c;
+  background-color: #2c2c33;
+}
+
+.page__footer-follow a {
+    padding-right: 10px;
+    font-weight: normal;
+}
+
+.page__footer-follow li {
+    display: inline-block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+    font-size: 0.75em;
+    text-transform: none;
 }
