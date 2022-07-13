@@ -13,16 +13,6 @@ Check back for information on the Topical Sessions after the voting in late July
 | Aug-Sep | TBD | 2 or 3 Topical Sessions |
 
 
-### Round Robin Schedule
-| Tuesday | Thursday |
-|---|---|
-| Columbia | Chicago |
-| Cornell | Dartmouth |
-| Duke | Harvard |
-| Penn | Johns Hopkins |
-| Princeton | MIT |
-| Stanford | Yale |
-
 ## Format
 Conference sessions will online only, and will be held via Zoom. We will use a meeting format, rather than a webinar format, to facilitate discussion and participation.  
 
