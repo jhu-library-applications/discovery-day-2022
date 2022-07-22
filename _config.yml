@@ -45,6 +45,9 @@ atom_feed:
 
 # search: true
 
+head_scripts:
+  - /assets/js/head_gtm.js
+
 footer:
   links:
     - label: "Privacy"
