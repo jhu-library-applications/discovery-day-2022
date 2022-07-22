@@ -40,12 +40,6 @@ plugins:
 - jekyll-remote-theme
 
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "GTM-MG5XGGX"
-    anonymize_ip: true
-
 atom_feed:
   hide: true
 
