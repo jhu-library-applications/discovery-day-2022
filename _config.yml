@@ -45,8 +45,11 @@ atom_feed:
 
 # search: true
 
-head_scripts:
-  - /assets/js/head_gtm.js
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-K5W8X0CGJ3"
+    anonymize_ip: false # default
 
 footer:
   links:
