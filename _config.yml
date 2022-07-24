@@ -45,12 +45,6 @@ atom_feed:
 
 # search: true
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-K5W8X0CGJ3"
-    anonymize_ip: false # default
-
 footer:
   links:
     - label: "Privacy"
