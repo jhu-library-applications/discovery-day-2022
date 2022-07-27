@@ -5,5 +5,7 @@ main:
     url: /planning/
   - title: "Schedule"
     url: /schedule/
+  - title: "Presentations"
+    url: /presentations/
   - title: "History"
     url: /history/
