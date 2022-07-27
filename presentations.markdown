@@ -8,10 +8,10 @@ During the round robin sessions in July 2022, each member institution provided a
 
 | Institution | Presenter(s) |
 |---|---|
-| [Dartmouth College]( {% link slides/Dartmouth+Discovery+Day.pdf %}) | Mark Mounts |
-| [Duke University](/slides//Duke+Discovery+Day.pdf) | Thomas Chrichlow |
-| [Harvard University](/slides/Harvard+Discovery+Day.pdf) | Claire DeMarco |
-| [Johns Hopkin University](/slides/Hopkins+Discovery+Day.pdf) | Jamie Little |
-| [Stanford University](/slides/Stanford+Discovery+Day.pdf) | Irina Trapido |
-| [Yale University](/slides/Yale+Discovery+Day.pdf) | Suzanne Lovejoy, Angela Sidman|
-| [University of Pennsylvania](/slides/Penn+Discovery+Day.pdf) | Beth Picknally Camden, Nikitas Tampakis|
+| [Dartmouth College]( {% link slides/Dartmouth_Discovery_Day.pdf %}) | Mark Mounts |
+| [Duke University](/slides//Duke_Discovery_Day.pdf) | Thomas Chrichlow |
+| [Harvard University](/slides/Harvard_Discovery_Day.pdf) | Claire DeMarco |
+| [Johns Hopkin University](/slides/Hopkins_Discovery_Day.pdf) | Jamie Little |
+| [Stanford University](/slides/Stanford_Discovery_Day.pdf) | Irina Trapido |
+| [Yale University](/slides/Yale_Discovery_Day.pdf) | Suzanne Lovejoy, Angela Sidman|
+| [University of Pennsylvania](/slides/Penn_Discovery_Day.pdf) | Beth Picknally Camden, Nikitas Tampakis|
