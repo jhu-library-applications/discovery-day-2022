@@ -8,8 +8,8 @@ During the round robin sessions in July 2022, each member institution provided a
 
 | Institution | Presenter(s) |
 |---|---|
-| [Dartmouth College]( {% link slides/Dartmouth_Discovery_Day.pdf %}) | Mark Mounts |
-| [Duke University](/slides//Duke_Discovery_Day.pdf) | Thomas Chrichlow |
+| [Dartmouth College]( {% link /slides/Dartmouth_Discovery_Day.pdf %}) | Mark Mounts |
+| [Duke University](/slides/Duke_Discovery_Day.pdf) | Thomas Chrichlow |
 | [Harvard University](/slides/Harvard_Discovery_Day.pdf) | Claire DeMarco |
 | [Johns Hopkin University](/slides/Hopkins_Discovery_Day.pdf) | Jamie Little |
 | [Stanford University](/slides/Stanford_Discovery_Day.pdf) | Irina Trapido |
