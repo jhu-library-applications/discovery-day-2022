@@ -7,6 +7,7 @@ During the round robin sessions in July 2022, each member institution provided a
 
 | Institution | Presenters |
 |---|---|
+| [Cornell University]({{ site.url }}/slides/Cornell_Discovery_Day_2022.pdf)| Huda Kahn, Melissa Wallace |
 | [Dartmouth College]({{ site.url }}/slides/Dartmouth_Discovery_Day_2022.pdf)| Mark Mounts |
 | [Duke University]({{ site.url }}/slides/Duke_Discovery_Day_2022.pdf) | Thomas Chrichlow |
 | [Harvard University]({{ site.url }}/slides/Harvard_Discovery_Day_2022.pdf) | Claire DeMarco |
